@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/traysimay.github.io/wendellen/static/css/main.62807c26.chunk.css",
+    "main.js": "/traysimay.github.io/wendellen/static/js/main.32db1798.chunk.js",
+    "main.js.map": "/traysimay.github.io/wendellen/static/js/main.32db1798.chunk.js.map",
+    "runtime-main.js": "/traysimay.github.io/wendellen/static/js/runtime-main.c432bec8.js",
+    "runtime-main.js.map": "/traysimay.github.io/wendellen/static/js/runtime-main.c432bec8.js.map",
+    "static/js/2.2b4201fd.chunk.js": "/traysimay.github.io/wendellen/static/js/2.2b4201fd.chunk.js",
+    "static/js/2.2b4201fd.chunk.js.map": "/traysimay.github.io/wendellen/static/js/2.2b4201fd.chunk.js.map",
+    "index.html": "/traysimay.github.io/wendellen/index.html",
+    "precache-manifest.31085c2e32ce6de4b739eb4b2225e014.js": "/traysimay.github.io/wendellen/precache-manifest.31085c2e32ce6de4b739eb4b2225e014.js",
+    "service-worker.js": "/traysimay.github.io/wendellen/service-worker.js",
+    "static/css/main.62807c26.chunk.css.map": "/traysimay.github.io/wendellen/static/css/main.62807c26.chunk.css.map",
+    "static/js/2.2b4201fd.chunk.js.LICENSE.txt": "/traysimay.github.io/wendellen/static/js/2.2b4201fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c432bec8.js",
+    "static/js/2.2b4201fd.chunk.js",
+    "static/css/main.62807c26.chunk.css",
+    "static/js/main.32db1798.chunk.js"
+  ]
+}
