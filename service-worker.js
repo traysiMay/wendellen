@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wendellen/precache-manifest.5f403a4e15709bbe708ac8a3bcd9c1e3.js"
+  "/wendellen/precache-manifest.269ae324ef8ac78e1161c926114f9065.js"
 );
 
 self.addEventListener('message', (event) => {
