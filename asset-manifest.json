@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wendellen/static/css/main.62807c26.chunk.css",
-    "main.js": "/wendellen/static/js/main.9ffd7076.chunk.js",
-    "main.js.map": "/wendellen/static/js/main.9ffd7076.chunk.js.map",
+    "main.js": "/wendellen/static/js/main.6031236a.chunk.js",
+    "main.js.map": "/wendellen/static/js/main.6031236a.chunk.js.map",
     "runtime-main.js": "/wendellen/static/js/runtime-main.7f73407b.js",
     "runtime-main.js.map": "/wendellen/static/js/runtime-main.7f73407b.js.map",
     "static/js/2.2b4201fd.chunk.js": "/wendellen/static/js/2.2b4201fd.chunk.js",
     "static/js/2.2b4201fd.chunk.js.map": "/wendellen/static/js/2.2b4201fd.chunk.js.map",
     "index.html": "/wendellen/index.html",
-    "precache-manifest.4b06eb7cddd92850468ebd44ef3380ea.js": "/wendellen/precache-manifest.4b06eb7cddd92850468ebd44ef3380ea.js",
+    "precache-manifest.480465c789545e430829df4a6c8fcd0d.js": "/wendellen/precache-manifest.480465c789545e430829df4a6c8fcd0d.js",
     "service-worker.js": "/wendellen/service-worker.js",
     "static/css/main.62807c26.chunk.css.map": "/wendellen/static/css/main.62807c26.chunk.css.map",
     "static/js/2.2b4201fd.chunk.js.LICENSE.txt": "/wendellen/static/js/2.2b4201fd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7f73407b.js",
     "static/js/2.2b4201fd.chunk.js",
     "static/css/main.62807c26.chunk.css",
-    "static/js/main.9ffd7076.chunk.js"
+    "static/js/main.6031236a.chunk.js"
   ]
 }
